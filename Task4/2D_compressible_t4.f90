@@ -31,7 +31,7 @@ program navierstokes
 !*******************************************
   !Name of the file for visualisation:
 990 format('vort',I4.4)
-  imodulo=1000 !snapshots to be saved every imodulo time steps
+  imodulo=2500 !snapshots to be saved every imodulo time steps
 
   ! AB2 temporal scheme itemp=1
   ! RK3 temporal scheme itemp=2
